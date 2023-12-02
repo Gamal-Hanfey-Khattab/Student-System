@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Student-System/static/css/main.cb57baef.css",
+    "main.js": "/Student-System/static/js/main.56f23b1a.js",
+    "static/media/main_background.jpg": "/Student-System/static/media/main_background.04f65620805223b2bdf3.jpg",
+    "static/media/secondary_background.jpg": "/Student-System/static/media/secondary_background.08ed22c75db74a19b698.jpg",
+    "static/media/OpenSans-VariableFont_wdth,wght.ttf": "/Student-System/static/media/OpenSans-VariableFont_wdth,wght.071a1becc7f00e33cc5b.ttf",
+    "static/media/fa-solid-900.ttf": "/Student-System/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Student-System/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Student-System/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Student-System/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/seff_logo_transparent.png": "/Student-System/static/media/seff_logo_transparent.fea5d68a3bfadd5b989d.png",
+    "static/media/fa-regular-400.ttf": "/Student-System/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Student-System/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/cpp_2.png": "/Student-System/static/media/cpp_2.186dba07a4d5bfa1a687.png",
+    "static/media/seff_logo_black.jpg": "/Student-System/static/media/seff_logo_black.3da9ca9ed292f52d921f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Student-System/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Student-System/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Student-System/index.html",
+    "main.cb57baef.css.map": "/Student-System/static/css/main.cb57baef.css.map",
+    "main.56f23b1a.js.map": "/Student-System/static/js/main.56f23b1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb57baef.css",
+    "static/js/main.56f23b1a.js"
+  ]
+}
