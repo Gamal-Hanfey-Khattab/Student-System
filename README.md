@@ -64,4 +64,4 @@ If you'd like to contribute to the project, feel free to submit a pull request o
 
 ## Credits
 
-This project was created by [Gamal Khattab](https://github.com/gamal-hanafi)## Setup and Run
+This project was created by [Gamal Khattab](https://github.com/gamal-hanafi)
