@@ -1,11 +1,11 @@
-# GitHub Searcher
+# Student System
 
 Student System is a single-page application that Manage Student Information , Online Exam , Jobs The application is built with React.js,Javascript, Redux , React Router, and Bootstrap for styling.
 
 ## Features
 
-- **Quiezes**: Students can perform quiz online with timing cutdown from begining.
-- **Jops**: Student can search for any availble jobs or internships.
+- **Quizzes**: Students can perform quiz online with timing cutdown from begining.
+- **Jobs**: Student can search for any availble jobs or internships.
 - **Student Information**:Student can see his degree and all data  .
 - **Responsive Design**: The layout adjusts gracefully to different screen sizes, ensuring a seamless experience on both desktops and mobile devices.
 - **State Handling**: The application handles various states like initial load, loading, error, and empty results, providing feedback to the user at each stage.
